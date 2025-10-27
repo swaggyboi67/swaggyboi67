@@ -1,5 +1,4 @@
-i dont know what to say here yet ok
-<img width="1188" height="875" alt="image" src="https://github.com/user-attachments/assets/53eb5a44-9553-4593-871e-5925897e2776" />
+
 
 <!--
 **swaggyboi67/swaggyboi67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
